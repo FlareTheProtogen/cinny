@@ -27,6 +27,6 @@
 
   "hashRouter": {
     "enabled": false,
-    "basename": "/"
+    "basename": "/cinny/"
   }
 }
